@@ -1,0 +1,95 @@
+html {
+	overflow: hidden;
+}
+
+.h-70-px {
+	height: 70px;
+}
+
+.h-360-px {
+	height: 360px;
+}
+
+
+
+.overflow-auto-my {
+	overflow: auto;
+}
+
+.block_photo  {
+	height: 44px;
+	margin-top: 15px;
+	/*	flex: 0 0 50%;*/
+	width: 45%;
+	float: left;
+	justify-content: center;
+	display: flex;
+	overflow: hidden;
+	margin-left: 5%;
+}
+
+.block_photo img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.block_photo:hover  {
+	border: 1px solid black;
+	opacity: 0.5;
+}
+
+.img-cover {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+
+
+#photoModal {
+	top: 0px;
+	left: 0px;
+	background-color: #000000ab;
+	position: absolute;
+	width: 100%;
+	height: 100%; 
+	z-index: 9999;
+	display: none;
+}
+
+#reportBlock {
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	padding: 0px;
+	background-color: #000000ab;
+	position: absolute;
+	width: 100%;
+	height: 100%; 
+	z-index: 99999;
+	display: none;
+	overflow: auto;
+}
+
+.block_photo_report  {
+	height: 40%;
+	margin-top: 15px;
+	width: 80%;
+	overflow: hidden;
+
+}
+
+.block_photo_report img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+@media screen and (max-width: 720px) {
+	.block_photo {
+		height: 10em;
+		margin: 0;
+		width: 50%;
+	}
+}

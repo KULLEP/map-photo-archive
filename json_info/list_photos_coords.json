@@ -1,0 +1,67 @@
+[
+	{
+		"id": "0",
+		"metka": "Дом советов",
+		"coords": [54.710825, 20.5118610],
+		"name": "Дом советов",
+		"years": "2014",
+		"date": "2015",
+		"description": "Это дом советов Калининграда",
+		"photo": "http://balticplus.ru/wp-content/uploads/dom-sovetov-2.jpg",
+		"id_author": "0",
+		"like": "11",
+		"dislike": "4"
+	},
+
+	{
+		"id": "1",
+		"metka": "Янтарный",
+		"coords": [54.749430, 20.485359],
+		"name": "Янтарный 1",
+		"years": "2018",
+		"description": "Спортивный комплекс Спортивный комплекс",
+		"photo": "https://avatars.mds.yandex.net/get-altay/906486/2a000001640680fa2e2c3f7c5eb133dd1b65/XXXL",
+		"id_author": "0",
+		"like": "13",
+		"dislike": "3"
+	},
+
+	{
+		"id": "2",
+		"metka": "Янтарный",
+		"coords": [54.749430, 20.485359],
+		"name": "Янтарный 2",
+		"years": "2001",
+		"description": "Спортивный комплекс Спортивный комплекс Спортивный комплекс",
+		"photo": "https://avatars.mds.yandex.net/get-altay/906486/2a000001640680fa2e2c3f7c5eb133dd1b65/XXXL",
+		"id_author": "0",
+		"like": "11",
+		"dislike": "15"
+	},
+
+	{
+		"id": "3",
+		"metka": "Янтарный",
+		"coords": [54.749430, 20.485359],
+		"name": "Янтарный 3",
+		"years": "2010",
+		"description": "Спортивный комплекс Спортивный комплекс Спортивный комплекс Спортивный комплекс",
+		"photo": "https://avatars.mds.yandex.net/get-altay/906486/2a000001640680fa2e2c3f7c5eb133dd1b65/XXXL",
+		"like": "101",
+		"dislike": "6"
+	},
+
+	{
+		"id": "4",
+		"metka": "Янтарный",
+		"coords": [54.749430, 20.485359],
+		"name": "Янтарный 4",
+		"years": "2016",
+		"description": "Спортивный комплекс Спортивный комплекс Спортивный комплекс Спортивный комплекс Спортивный комплекс",
+		"photo": "https://avatars.mds.yandex.net/get-altay/906486/2a000001640680fa2e2c3f7c5eb133dd1b65/XXXL",
+		"id_author": "0",
+		"like": "58",
+		"dislike": "15"
+	}
+
+]
